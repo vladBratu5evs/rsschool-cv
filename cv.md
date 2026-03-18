@@ -5,8 +5,11 @@
 ## **Contact Information**
 
 brvl92@gmail.com
+
 +447460772344
+
 [LinkedIn](www.linkedin.com/in/vladislavs-bratusevs)
+
 London, UK
 
 ------------------------
