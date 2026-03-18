@@ -8,7 +8,7 @@ brvl92@gmail.com
 
 +447460772344
 
-[LinkedIn](www.linkedin.com/in/vladislavs-bratusevs)
+[LinkedIn](https://www.linkedin.com/in/vladislavs-bratusevs)
 
 London, UK
 
@@ -81,9 +81,15 @@ documentation
 
 ## **Education**
 
-2023 ISTQB Foundation Level, BCS The Chartered Institute for IT
+2025 Automation and AI QA - JS,TS, Playwright - Acodemy 
 
-2014 Southampton Solent University, BEng Electronic Engineering
+2023 QA Hands-on Programme - Kreativstorm
+
+2023 ISTQB Foundation Level - BCS The Chartered Institute for IT
+
+2022 Manual and Automation QA - Acodemy 
+
+2014 BEng Electronic Engineering - Southampton Solent University, 
 
 ------------------------
 
