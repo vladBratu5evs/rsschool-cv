@@ -1,7 +1,72 @@
-p {
-  color: black;
+@font-face {
+    font-family: "MPLUSRounded1c-extrabold";
+    src: url("./assets/fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Black.ttf");
+}
+@font-face {
+    font-family: "MPLUSRounded1c-Bold";
+    src: url("./assets/fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Bold.ttf");
+}
+@font-face {
+    font-family: "MPLUSRounded1c-thin";
+    src: url("./assets/fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Thin.ttf");
+}
+@font-face {
+    font-family: "MPLUSRounded1c-Medium";
+    src: url("./assets/fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Medium.ttf");
 }
 
-h1 {
-  color: red;
+
+
+.h1 {
+  font-family: "MPLUSRounded1c-extrabold";
+    font-size: 50px;
+}
+
+.h2 {
+  font-family: "MPLUSRounded1c-Bold";
+    font-size: 40px;
+}
+
+.h3-4  {
+  font-family: "MPLUSRounded1c-Medium";
+    font-size: 25px;
+}
+
+.body {
+  font-family: "MPLUSRounded1c-thin";
+  background-color: rgb(239, 239, 225);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.link {
+  color: black;
+}
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 0 20px;
+  line-height: 50px;
+  gap: 20px
+}
+.footer {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  line-height: 50px;
+  gap: 60px
 }
